@@ -10,6 +10,10 @@ package project01;
  */
 public class MahasiswaAksi {
     public static void main(String[] args) {
+        Mahasiswa Arisandi = new Mahasiswa();
         
+        Arisandi.nama = "M. Yedi Arisandi";
+        Arisandi.NPM = "2010010210";
+        Arisandi.IPK = 3.5;
     }
 }
