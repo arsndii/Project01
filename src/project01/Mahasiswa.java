@@ -9,5 +9,13 @@ package project01;
  * @author warik
  */
 public class Mahasiswa {
+    String nama;
+    String NPM;
+    double IPK;
     
+    void cetakInfo(){
+        System.out.println("Nama : "+nama);
+        System.out.println("IPK  : "+IPK);
+        System.out.println("NPM  : "+NPM);
+    }
 }
