@@ -15,5 +15,7 @@ public class MahasiswaAksi {
         Arisandi.nama = "M. Yedi Arisandi";
         Arisandi.NPM = "2010010210";
         Arisandi.IPK = 3.5;
+        
+        Arisandi.cetakInfo();
     }
 }
